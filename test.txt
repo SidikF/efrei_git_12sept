@@ -2,7 +2,7 @@ Message projet
 
 deuxieme msg 
 
-troisième msg
+troisième msg pour conflit
 
 4eme msg
 
